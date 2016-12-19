@@ -1,0 +1,7 @@
+Delphi Form Conversion Utility Version 5.0
+Copyright (c) 1995,99 Inprise Corporation
+Usage: convert.exe [-i] [-s] [-t | -b] <filespec(s) | @filelist>
+  -i  Convert files in-place (output overwrites input)
+  -s  Recurse subdirectories
+  -t  Convert to text
+  -b  Convert to binary

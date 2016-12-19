@@ -1,0 +1,84 @@
+Compares two files or sets of files and displays the differences between
+them
+
+
+FC [/A] [/C] [/L] [/LBn] [/N] [/OFF[LINE]] [/T] [/U] [/W] [/nnnn]
+   [drive1:][path1]filename1 [drive2:][path2]filename2
+FC /B [drive1:][path1]filename1 [drive2:][path2]filename2
+
+  /A         Displays only first and last lines for each set of differences.
+  /B         Performs a binary comparison.
+  /C         Disregards the case of letters.
+  /L         Compares files as ASCII text.
+  /LBn       Sets the maximum consecutive mismatches to the specified
+             number of lines.
+  /N         Displays the line numbers on an ASCII comparison.
+  /OFF[LINE] Do not skip files with offline attribute set.
+  /T         Does not expand tabs to spaces.
+  /U         Compare files as UNICODE text files.
+  /W         Compresses white space (tabs and spaces) for comparison.
+  /nnnn      Specifies the number of consecutive lines that must match
+             after a mismatch.
+  [drive1:][path1]filename1
+             Specifies the first file or set of files to compare.
+  [drive2:][path2]filename2
+             Specifies the second file or set of files to compare.
+
+Comparing files help_of_attrib.txt and HELP_OF_CHKDSK.TXT
+***** help_of_attrib.txt
+Displays or changes file attributes.
+
+ATTRIB [+R | -R] [+A | -A ] [+S | -S] [+H | -H] [+I | -I] 
+       [drive:][path][filename] [/S [/D] [/L]]
+
+  +   Sets an attribute.
+  -   Clears an attribute.
+  R   Read-only file attribute.
+  A   Archive file attribute.
+  S   System file attribute.
+  H   Hidden file attribute.
+  I   Not content indexed file attribute.
+  [drive:][path][filename]
+      Specifies a file or files for attrib to process.
+  /S  Processes matching files in the current folder
+      and all subfolders.
+  /D  Processes folders as well.
+  /L  Work on the attributes of the Symbolic Link versus
+      the target of the Symbolic Link
+
+***** HELP_OF_CHKDSK.TXT
+Checks a disk and displays a status report.
+
+*****
+
+***** help_of_attrib.txt
+***** HELP_OF_CHKDSK.TXT
+
+CHKDSK [volume[[path]filename]]] [/F] [/V] [/R] [/X] [/I] [/C] [/L[:size]] [/B]
+
+
+  volume          Specifies the drive letter (followed by a colon),
+                  mount point, or volume name.
+  filename        FAT/FAT32 only: Specifies the files to check for fragmentation.
+  /F              Fixes errors on the disk.
+  /V              On FAT/FAT32: Displays the full path and name of every file
+                  on the disk.
+                  On NTFS: Displays cleanup messages if any.
+  /R              Locates bad sectors and recovers readable information
+                  (implies /F).
+  /L:size         NTFS only:  Changes the log file size to the specified number
+                  of kilobytes.  If size is not specified, displays current
+                  size.
+  /X              Forces the volume to dismount first if necessary.
+                  All opened handles to the volume would then be invalid
+                  (implies /F).
+  /I              NTFS only: Performs a less vigorous check of index entries.
+  /C              NTFS only: Skips checking of cycles within the folder
+                  structure.
+  /B              NTFS only: Re-evaluates bad clusters on the volume
+                  (implies /R)
+
+The /I or /C switch reduces the amount of time required to run Chkdsk by
+skipping certain checks of the volume.
+*****
+

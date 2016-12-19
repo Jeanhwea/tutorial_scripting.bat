@@ -1,0 +1,7 @@
+.doc=Word.Document.8
+.dochtml=wordhtmlfile
+.docm=Word.DocumentMacroEnabled.12
+.docmhtml=wordmhtmlfile
+.docx=Word.Document.12
+.docxml=wordxmlfile
+.mydocs=CLSID\{ECF03A32-103D-11d2-854D-006008059367}

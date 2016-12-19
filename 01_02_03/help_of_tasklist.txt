@@ -1,0 +1,159 @@
+
+TASKLIST [/S system [/U username [/P [password]]]]
+         [/M [module] | /SVC | /V] [/FI filter] [/FO format] [/NH]
+
+Description:
+    This tool displays a list of currently running processes on
+    either a local or remote machine.
+
+Parameter List:
+   /S     system           Specifies the remote system to connect to.
+
+   /U     [domain\]user    Specifies the user context under which
+                           the command should execute.
+
+   /P     [password]       Specifies the password for the given
+                           user context. Prompts for input if omitted.
+
+   /M     [module]         Lists all tasks currently using the given
+                           exe/dll name. If the module name is not
+                           specified all loaded modules are displayed.
+
+   /SVC                    Displays services hosted in each process.
+
+   /V                      Displays verbose task information.
+
+   /FI    filter           Displays a set of tasks that match a
+                           given criteria specified by the filter.
+
+   /FO    format           Specifies the output format.
+                           Valid values: "TABLE", "LIST", "CSV".
+
+   /NH                     Specifies that the "Column Header" should
+                           not be displayed in the output.
+                           Valid only for "TABLE" and "CSV" formats.
+
+   /?                      Displays this help message.
+
+Filters:
+    Filter Name     Valid Operators           Valid Value(s)
+    -----------     ---------------           --------------------------
+    STATUS          eq, ne                    RUNNING | 
+                                              NOT RESPONDING | UNKNOWN
+    IMAGENAME       eq, ne                    Image name
+    PID             eq, ne, gt, lt, ge, le    PID value
+    SESSION         eq, ne, gt, lt, ge, le    Session number
+    SESSIONNAME     eq, ne                    Session name
+    CPUTIME         eq, ne, gt, lt, ge, le    CPU time in the format
+                                              of hh:mm:ss.
+                                              hh - hours,
+                                              mm - minutes, ss - seconds
+    MEMUSAGE        eq, ne, gt, lt, ge, le    Memory usage in KB
+    USERNAME        eq, ne                    User name in [domain\]user
+                                              format
+    SERVICES        eq, ne                    Service name
+    WINDOWTITLE     eq, ne                    Window title
+    MODULES         eq, ne                    DLL name
+
+NOTE: "WINDOWTITLE" and "STATUS" filters are not supported when querying
+      a remote machine.
+
+Examples:
+    TASKLIST
+    TASKLIST /M
+    TASKLIST /V /FO CSV
+    TASKLIST /SVC /FO LIST
+    TASKLIST /M wbem*
+    TASKLIST /S system /FO LIST
+    TASKLIST /S system /U domain\username /FO CSV /NH
+    TASKLIST /S system /U username /P password /FO TABLE /NH
+    TASKLIST /FI "USERNAME ne NT AUTHORITY\SYSTEM" /FI "STATUS eq running"
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::: 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::: 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::: 
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+System Idle Process              0 Services                   0         24 K
+System                           4 Services                   0      4,176 K
+smss.exe                       328 Services                   0        592 K
+csrss.exe                      492 Services                   0      2,692 K
+wininit.exe                    544 Services                   0      2,548 K
+csrss.exe                      552 Console                    1     11,688 K
+services.exe                   592 Services                   0      4,404 K
+lsass.exe                      604 Services                   0      6,688 K
+lsm.exe                        612 Services                   0      2,520 K
+winlogon.exe                   676 Console                    1      3,824 K
+svchost.exe                    780 Services                   0      6,708 K
+USBSRService.exe               852 Services                   0      2,248 K
+nvvsvc.exe                     884 Services                   0      3,492 K
+nvSCPAPISvr.exe                908 Services                   0      2,960 K
+svchost.exe                    952 Services                   0      5,032 K
+MsMpEng.exe                   1008 Services                   0     88,408 K
+svchost.exe                   1136 Services                   0     10,516 K
+svchost.exe                   1172 Services                   0     63,976 K
+svchost.exe                   1228 Services                   0     22,552 K
+svchost.exe                   1324 Services                   0      3,028 K
+svchost.exe                   1380 Services                   0      8,800 K
+nvxdsync.exe                  1500 Console                    1      5,584 K
+nvvsvc.exe                    1512 Console                    1      4,496 K
+svchost.exe                   1576 Services                   0     11,512 K
+spoolsv.exe                   1780 Services                   0      8,776 K
+sched.exe                     1820 Services                   0      3,648 K
+svchost.exe                   1852 Services                   0      9,576 K
+LogonScreenService.exe        2000 Services                   0      2,080 K
+avguard.exe                   2044 Services                   0     25,696 K
+AppleMobileDeviceService.      164 Services                   0      4,712 K
+mDNSResponder.exe              464 Services                   0      3,736 K
+officeclicktorun.exe          1040 Services                   0     16,676 K
+GfExperienceService.exe       1748 Services                   0      2,644 K
+cmw_srv.exe                   2040 Services                   0      8,532 K
+hsswd.exe                     2120 Services                   0      4,692 K
+NvNetworkService.exe          2168 Services                   0      2,944 K
+nvstreamsvc.exe               2192 Services                   0      5,904 K
+PassThruSvr.exe               2232 Services                   0      1,696 K
+PsiService_2.exe              2308 Services                   0      2,060 K
+RosettaStoneDaemon.exe        2352 Services                   0      3,448 K
+vpnclient.exe                 2392 Services                   0      6,160 K
+sqlwriter.exe                 2424 Services                   0      3,356 K
+ss_conn_service.exe           2464 Services                   0      2,440 K
+StarWindServiceAE.exe         2544 Services                   0      3,440 K
+svchost.exe                   2584 Services                   0      3,180 K
+nvstreamsvc.exe               2732 Services                   0      5,012 K
+conhost.exe                   2764 Services                   0      1,808 K
+WiTopiaService.exe            2996 Services                   0     10,808 K
+Avira.ServiceHost.exe         3092 Services                   0      5,912 K
+dwm.exe                       3464 Console                    1      4,408 K
+nvstreamsvc.exe               3476 Console                    1      7,376 K
+conhost.exe                   3504 Console                    1      1,864 K
+explorer.exe                  3532 Console                    1     28,564 K
+taskeng.exe                   3568 Console                    1      3,512 K
+iToolsDaemon.exe              3788 Console                    1      2,412 K
+SSMMgr.exe                    3904 Console                    1      4,176 K
+avgnt.exe                     3916 Console                    1      4,764 K
+RtHDVCpl.exe                  3932 Console                    1      5,232 K
+NvBackend.exe                 3944 Console                    1      8,684 K
+SynciosDeviceService.exe      4040 Console                    1      7,656 K
+flux.exe                      1532 Console                    1     11,508 K
+USBSafelyRemove.exe           3204 Console                    1     10,800 K
+dllhost.exe                   3648 Console                    1      6,140 K
+nvtray.exe                    3360 Console                    1      4,144 K
+IDMan.exe                     4260 Console                    1      8,260 K
+WiTopia.exe                   4304 Console                    1     39,212 K
+vpncmgr.exe                   4400 Console                    1      7,700 K
+vpnclient.exe                 4604 Console                    1      5,680 K
+avshadow.exe                  4912 Services                   0      2,512 K
+SearchIndexer.exe             5352 Services                   0     14,832 K
+alg.exe                       5468 Services                   0      2,532 K
+NisSrv.exe                    5536 Services                   0      4,576 K
+svchost.exe                   5632 Services                   0      5,464 K
+cmd.exe                       5916 Console                    1      5,836 K
+conhost.exe                   5932 Console                    1      3,108 K
+Avira.Systray.exe             5144 Console                    1      3,896 K
+sppsvc.exe                    5296 Services                   0      3,396 K
+wmpnetwk.exe                  4900 Services                   0      2,144 K
+explorer.exe                  5132 Console                    1     38,256 K
+SearchProtocolHost.exe        2880 Services                   0      6,208 K
+WmiPrvSE.exe                  5224 Services                   0      5,976 K
+SearchFilterHost.exe          3032 Services                   0      4,496 K
+tasklist.exe                  2756 Console                    1      4,480 K

@@ -1,0 +1,13 @@
+
+Microsoft DiskPart version 6.1.7601
+Copyright (C) 1999-2008 Microsoft Corporation.
+On computer: PC1
+
+  Volume ###  Ltr  Label        Fs     Type        Size     Status     Info
+  ----------  ---  -----------  -----  ----------  -------  ---------  --------
+  Volume 0     I   OALD 9       UDF    DVD-ROM     4291 MB  Healthy            
+  Volume 1     C   windows      NTFS   Partition     99 GB  Healthy    System  
+  Volume 2                             Partition    638 GB  Healthy    Offline 
+  Volume 3                             Partition    931 GB  Healthy    Offline 
+  Volume 4     D   MOVIE        NTFS   Partition    931 GB  Healthy            
+  Volume 5         shakib       NTFS   Removable   3688 MB  Healthy            
