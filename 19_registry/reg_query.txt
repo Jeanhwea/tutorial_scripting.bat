@@ -1,0 +1,13 @@
+
+HKEY_LOCAL_MACHINE\system\currentcontrolset\control\windows
+    ErrorMode    REG_DWORD    0x0
+    Directory    REG_EXPAND_SZ    %SystemRoot%
+    NoInteractiveServices    REG_DWORD    0x0
+    SystemDirectory    REG_EXPAND_SZ    %SystemRoot%\system32
+    ShellErrorMode    REG_DWORD    0x1
+    CSDVersion    REG_DWORD    0x100
+    CSDReleaseType    REG_DWORD    0x0
+    CSDBuildNumber    REG_DWORD    0x446a
+    ComponentizedBuild    REG_DWORD    0x1
+    ShutdownTime    REG_BINARY    84034F20A6ECD101
+

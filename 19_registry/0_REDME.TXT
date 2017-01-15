@@ -1,0 +1,11 @@
+The registry os oen of the key elements on a windows system. It contains a lot of
+information on various of the operating system. Almost all application installed
+on a windows system interact with the registry in some form or the other.
+   The registry contains two basic elements:
+   keys and values.
+Registry Keys are container objects similar to folder.
+Registry Value are non-container objcets simlar to files.
+Keys may contain valus or further keys. Keys are reference with a syntax similar to
+windoes path names, using backslashes to indicate levels of hierarchy.
+This chpater looks at various functions such as querying value, adding, deleting and
+editing valus form the registry.
