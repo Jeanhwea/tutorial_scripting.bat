@@ -1,0 +1,11 @@
+Normally, the first line in a patch file often consist of the following cammand.
+
+@echo off
+
+By default, a batch file will display its command as it runs. Ithe purpose of this first command is to turn off
+this dispaly. The command "echo off" turns off the display for the whole script, except for the "ehco off" command
+itself. The "at" sing "@" in front makes the command aplly to itself as well.
+
+Documentation
+Very often batch files also contains lines that start with the "Rem" command. This is a way to enter comments and
+documentation. The computer ignoress anything on a line following Rem. For batc files with increasing amount of complexity, this is often a good idea to have comments.

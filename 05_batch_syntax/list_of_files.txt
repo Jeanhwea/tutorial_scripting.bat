@@ -1,0 +1,145 @@
+ Volume in drive C is windows
+ Volume Serial Number is 1C50-73B5
+
+ Directory of C:\Program Files
+
+06/24/2016  06:46 PM    <DIR>          .
+06/24/2016  06:46 PM    <DIR>          ..
+12/22/2015  09:27 PM    <DIR>          20SPEED
+02/03/2015  07:35 PM    <DIR>          7-Zip
+02/03/2015  08:19 PM    <DIR>          7GIF
+12/24/2015  03:00 PM    <DIR>          Actual Window Manager
+02/03/2015  08:57 PM    <DIR>          Adobe
+05/03/2015  10:27 AM    <DIR>          AGEIA Technologies
+05/06/2016  11:32 PM    <DIR>          Alcohol Soft
+06/20/2015  12:41 PM    <DIR>          Anki
+12/11/2015  07:47 PM    <DIR>          Apple Software Update
+03/05/2015  06:36 PM    <DIR>          Application Verifier
+12/24/2015  03:02 PM    <DIR>          AquaSnap
+12/24/2015  03:34 PM    <DIR>          AutoPlay Media Studio 8 Trial
+07/11/2015  12:01 PM    <DIR>          Avira
+10/07/2015  09:46 PM    <DIR>          Balabolka
+12/11/2015  07:46 PM    <DIR>          Bonjour
+03/05/2015  08:05 PM    <DIR>          BORLAND
+02/08/2015  01:59 PM    <DIR>          BurnAware Professional
+02/14/2015  08:59 PM    <DIR>          Button Shop 4
+05/14/2015  12:43 PM    <DIR>          ChrisPC DNS Switch
+04/08/2016  06:07 PM    <DIR>          CodeBlocks
+03/24/2016  12:41 AM    <DIR>          Common Files
+02/08/2015  12:02 PM    <DIR>          Corel
+02/03/2015  08:01 PM    <DIR>          Daum
+02/03/2015  08:22 PM    <DIR>          Demo Builder 9
+02/04/2015  05:45 PM    <DIR>          DriverTools
+04/12/2011  06:04 AM    <DIR>          DVD Maker
+02/28/2015  05:12 PM    <DIR>          East Imperial Soft
+06/06/2015  03:40 PM    <DIR>          Easy GIF Animator
+06/20/2015  12:10 PM    <DIR>          Elex-tech
+06/12/2016  08:03 AM    <DIR>          Fast Find
+02/03/2015  08:25 PM    <DIR>          FastStone Capture
+02/03/2015  08:28 PM    <DIR>          Foxit Software
+12/22/2015  08:52 PM    <DIR>          Free iPhone Care
+05/26/2015  09:02 PM    <DIR>          Google
+02/09/2015  03:40 PM    <DIR>          GsmServer
+02/07/2016  11:08 PM    <DIR>          Heimdall
+03/04/2015  04:55 PM    <DIR>          Hotspot Shield
+05/05/2015  04:14 PM    <DIR>          HP
+02/05/2015  07:32 PM    <DIR>          HTC
+06/03/2016  04:36 PM    <DIR>          HTML Help Workshop
+12/19/2015  04:17 PM    <DIR>          i-Funbox DevTeam
+03/05/2015  06:21 PM    <DIR>          IIS
+03/05/2015  06:23 PM    <DIR>          IIS Express
+06/03/2016  04:52 PM    <DIR>          Internet Download Manager
+10/15/2014  07:04 PM    <DIR>          Internet Explorer
+12/22/2015  09:04 PM    <DIR>          iPhone Care Pro
+12/19/2015  10:10 PM    <DIR>          iPod
+12/19/2015  10:11 PM    <DIR>          iTunes
+03/04/2015  05:39 PM    <DIR>          Java
+07/11/2015  01:17 PM    <DIR>          Ketabrah
+06/03/2016  04:38 PM    <DIR>          Klavaro-2.00c
+03/24/2016  06:43 PM    <DIR>          Kolor
+02/04/2015  02:06 PM    <DIR>          LG Electronics
+04/25/2016  01:59 PM    <DIR>          Longman
+02/03/2015  08:05 PM    <DIR>          LopeSoft
+04/24/2016  04:52 PM    <DIR>          M3 Software
+05/05/2015  05:06 PM    <DIR>          Maxthon
+02/09/2015  04:55 PM    <DIR>          MediaTek
+03/05/2015  06:42 PM    <DIR>          Microsoft
+02/04/2015  12:36 PM    <DIR>          Microsoft Analysis Services
+03/05/2015  06:29 PM    <DIR>          Microsoft ASP.NET
+03/05/2015  06:03 PM    <DIR>          Microsoft Help Viewer
+03/05/2015  06:42 PM    <DIR>          Microsoft Identity Extensions
+02/04/2015  12:37 PM    <DIR>          Microsoft Office
+06/21/2016  08:41 AM    <DIR>          Microsoft Office 15
+03/05/2015  06:47 PM    <DIR>          Microsoft SDKs
+02/07/2015  05:56 PM    <DIR>          Microsoft Security Client
+03/05/2015  08:08 PM    <DIR>          Microsoft Silverlight
+02/05/2015  02:28 PM    <DIR>          Microsoft SkyDrive
+03/05/2015  06:40 PM    <DIR>          Microsoft SQL Server
+03/05/2015  06:40 PM    <DIR>          Microsoft SQL Server Compact Edition
+03/05/2015  06:47 PM    <DIR>          Microsoft Visual Studio 12.0
+02/08/2015  12:13 PM    <DIR>          Microsoft Visual Studio 9.0
+03/05/2015  06:21 PM    <DIR>          Microsoft WCF Data Services
+03/05/2015  06:26 PM    <DIR>          Microsoft Web Tools
+03/05/2015  05:58 PM    <DIR>          Microsoft.NET
+06/24/2016  06:47 PM    <DIR>          Mozilla Firefox
+06/26/2016  08:40 AM    <DIR>          Mozilla Maintenance Service
+03/05/2015  06:30 PM    <DIR>          MSBuild
+02/04/2015  01:03 PM    <DIR>          MSECache
+01/14/2016  11:18 PM    <DIR>          NCH Software
+06/03/2016  04:25 PM    <DIR>          nLite
+06/19/2016  11:45 PM    <DIR>          Notepad++
+12/12/2015  09:35 PM    <DIR>          nsoftware
+03/05/2015  06:22 PM    <DIR>          NuGet
+05/03/2015  10:30 AM    <DIR>          NVIDIA Corporation
+03/05/2015  06:42 PM    <DIR>          Open XML SDK
+02/03/2015  08:05 PM    <DIR>          Opera
+05/21/2016  07:13 AM    <DIR>          Oracle
+05/06/2016  10:22 PM    <DIR>          Oxford
+03/27/2016  01:27 AM    <DIR>          PackageManagement
+02/04/2015  08:43 PM    <DIR>          paint.net
+02/09/2015  07:51 PM    <DIR>          PC Speed Up
+12/11/2015  10:07 PM    <DIR>          PP????
+02/03/2015  08:20 PM    <DIR>          QTranslate
+02/13/2015  08:33 PM    <DIR>          Realtek
+04/25/2016  01:44 PM    <DIR>          Recuva
+07/14/2009  09:22 AM    <DIR>          Reference Assemblies
+06/02/2015  07:29 AM    <DIR>          Rosetta Stone
+06/02/2015  07:30 AM    <DIR>          RosettaStoneLtdServices
+07/05/2016  08:39 AM    <DIR>          SAMSUNG
+02/11/2015  12:02 PM    <DIR>          SamsungPrinterLiveUpdate
+02/06/2015  12:38 PM    <DIR>          SDA
+03/05/2015  06:42 PM    <DIR>          SharePoint Client Components
+07/09/2016  01:00 PM    <DIR>          SoftEther VPN Client
+02/04/2015  01:40 PM    <DIR>          Sony Ericsson
+12/24/2015  08:38 PM    <DIR>          Syncios
+12/31/2015  11:34 AM    <DIR>          TagRename
+12/22/2015  08:39 PM    <DIR>          Tenorshare ReiBoot
+10/07/2015  09:37 PM    <DIR>          TextAloud
+12/11/2015  09:45 PM    <DIR>          ThinkSky
+04/27/2016  12:21 AM    <DIR>          TNM
+05/12/2016  11:51 PM    <DIR>          Tongbu
+06/03/2016  04:23 PM    <DIR>          UCBrowser
+02/03/2015  07:36 PM    <DIR>          UltraISO
+12/24/2015  03:33 PM    <DIR>          USB Safely Remove
+04/30/2015  08:20 PM    <DIR>          Vivaldi
+09/19/2014  10:51 AM    <DIR>          Windows Defender
+03/05/2015  06:41 PM    <DIR>          Windows Identity Foundation
+09/19/2014  10:54 AM    <DIR>          Windows Journal
+03/05/2015  06:33 PM    <DIR>          Windows Kits
+04/12/2011  05:59 AM    <DIR>          Windows Mail
+10/15/2014  07:05 PM    <DIR>          Windows Media Player
+07/14/2009  09:22 AM    <DIR>          Windows NT
+04/12/2011  05:59 AM    <DIR>          Windows Photo Viewer
+11/21/2010  02:03 AM    <DIR>          Windows Portable Devices
+05/15/2016  02:03 AM    <DIR>          Windows Resource Kits
+04/12/2011  05:59 AM    <DIR>          Windows Sidebar
+02/06/2015  08:35 PM    <DIR>          Windows Updates Downloader
+12/13/2015  01:43 AM    <DIR>          WindowsPowerShell
+05/12/2015  11:47 AM    <DIR>          WinRAR
+06/10/2016  06:08 PM    <DIR>          WiTopia
+12/22/2015  07:53 PM    <DIR>          Wondershare
+03/05/2015  06:42 PM    <DIR>          Workflow Manager Tools
+06/11/2015  09:10 PM    <DIR>          Xilisoft
+02/04/2015  12:31 PM    <DIR>          Your Uninstaller! 7
+               0 File(s)              0 bytes
+             138 Dir(s)  23,111,147,520 bytes free
