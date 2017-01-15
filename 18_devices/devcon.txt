@@ -1,0 +1,2 @@
+Devcon ( devcon.exe ) is included when you install WDK, Visual Studio, and the Wndiows SDK for desktop
+apps.
