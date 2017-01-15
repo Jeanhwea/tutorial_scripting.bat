@@ -1,0 +1,28 @@
+ Volume in drive C is windows
+ Volume Serial Number is 1C50-73B5
+
+ Directory of C:\Users\sh\Desktop\batch_practice\15_function
+
+08/01/2016  01:20 PM    <DIR>          .
+08/01/2016  01:20 PM    <DIR>          ..
+08/01/2016  01:20 PM                 0 batch_list.txt
+07/27/2016  02:08 PM               633 function.bat
+07/27/2016  01:41 PM                67 function.bat~
+07/27/2016  02:17 PM               606 function_parameter.bat
+07/27/2016  02:09 PM               633 function_parameter.bat~
+07/27/2016  02:34 PM               335 function_parameter_2.bat
+07/27/2016  02:17 PM               606 function_parameter_2.bat~
+07/27/2016  03:19 PM               423 function_return_value.bat
+07/27/2016  02:34 PM               335 function_return_value.bat~
+07/30/2016  02:29 PM               997 function_test.bat
+07/30/2016  01:54 PM               423 function_test.bat~
+07/31/2016  01:31 PM               150 function_test_2.bat
+07/31/2016  01:30 PM               143 function_test_2.bat~
+07/31/2016  01:36 PM               230 local_variable_in_function.bat
+07/31/2016  01:32 PM               150 local_variable_in_function.bat~
+07/26/2016  02:37 PM             1,267 README.TXT
+07/26/2016  02:12 PM               926 README.TXT~
+07/31/2016  01:56 PM               630 recursive_function.bat
+07/31/2016  01:46 PM               631 recursive_function.bat~
+              19 File(s)          9,185 bytes
+               2 Dir(s)  32,231,075,840 bytes free
