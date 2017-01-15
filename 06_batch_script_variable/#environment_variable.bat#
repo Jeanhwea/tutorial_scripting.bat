@@ -1,0 +1,14 @@
+@echo off
+:: Environment variable
+echo.
+echo %jave_home%
+echo.
+echo %user%
+echo.
+echo %systemdrive%
+echo.
+echo %windir%
+echo.xxc
+echo %temp%
+echo.
+pause
