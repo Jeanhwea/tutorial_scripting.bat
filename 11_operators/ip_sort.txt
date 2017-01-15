@@ -1,0 +1,72 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   Connection-specific DNS Suffix  . : 
+   Connection-specific DNS Suffix  . : 
+   Connection-specific DNS Suffix  . : 
+   Connection-specific DNS Suffix  . : 
+   Connection-specific DNS Suffix  . : 
+   Connection-specific DNS Suffix  . : 
+   Connection-specific DNS Suffix  . : 
+   Connection-specific DNS Suffix  . : 
+   Connection-specific DNS Suffix  . : 
+   Connection-specific DNS Suffix  . : 
+   Connection-specific DNS Suffix  . : 
+   Connection-specific DNS Suffix  . : 
+   Default Gateway . . . . . . . . . : 
+   Default Gateway . . . . . . . . . : 
+   IPv4 Address. . . . . . . . . . . : 192.168.56.1
+   IPv4 Address. . . . . . . . . . . : 192.168.56.1
+   Link-local IPv6 Address . . . . . : fe80::846:7aba:f447:e98c%25
+   Link-local IPv6 Address . . . . . : fe80::846:7aba:f447:e98c%25
+   Media State . . . . . . . . . . . : Media disconnected
+   Media State . . . . . . . . . . . : Media disconnected
+   Media State . . . . . . . . . . . : Media disconnected
+   Media State . . . . . . . . . . . : Media disconnected
+   Media State . . . . . . . . . . . : Media disconnected
+   Media State . . . . . . . . . . . : Media disconnected
+   Media State . . . . . . . . . . . : Media disconnected
+   Media State . . . . . . . . . . . : Media disconnected
+   Media State . . . . . . . . . . . : Media disconnected
+   Media State . . . . . . . . . . . : Media disconnected
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+Ethernet adapter Local Area Connection 2:
+Ethernet adapter Local Area Connection 2:
+Ethernet adapter Local Area Connection 7:
+Ethernet adapter Local Area Connection 7:
+Ethernet adapter Local Area Connection* 11:
+Ethernet adapter Local Area Connection* 11:
+Ethernet adapter Local Area Connection:
+Ethernet adapter Local Area Connection:
+Ethernet adapter softether - VPN Client:
+Ethernet adapter softether - VPN Client:
+Ethernet adapter VirtualBox Host-Only Network:
+Ethernet adapter VirtualBox Host-Only Network:
+Windows IP Configuration
+Windows IP Configuration

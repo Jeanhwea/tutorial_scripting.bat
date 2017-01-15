@@ -1,0 +1,30 @@
+ Volume in drive C is windows
+ Volume Serial Number is 1C50-73B5
+
+ Directory of c:\Users\sh\Desktop\batch_practise\11_operators
+
+07/19/2016  01:26 PM    <DIR>          .
+07/19/2016  01:26 PM    <DIR>          ..
+07/18/2016  01:31 PM               611 arithmetic_operator.bat
+07/19/2016  12:52 PM             1,151 assignment_operator.bat
+07/19/2016  12:39 PM               110 assignment_operator.bat~
+07/19/2016  01:12 PM               388 bitwise_operator.bat
+07/19/2016  12:53 PM             1,151 bitwise_operator.bat~
+07/19/2016  12:38 PM               110 if_not.bat
+07/19/2016  12:36 PM               290 if_not.bat~
+07/19/2016  01:26 PM             2,146 ip.txt
+07/19/2016  01:26 PM                 0 ip_error.txt
+07/19/2016  01:26 PM             2,146 ip_sort.txt
+07/19/2016  01:26 PM                 0 ip_sort_error.txt
+07/19/2016  01:26 PM                 0 list.txt
+07/19/2016  01:26 PM                 0 list_error.txt
+07/18/2016  01:58 PM               844 logical_operator.bat
+07/18/2016  01:47 PM               978 logical_operator.bat~
+07/19/2016  12:36 PM               290 logical_operator_2.bat
+07/18/2016  02:01 PM                36 logical_operator_2.bat~
+07/19/2016  01:26 PM               831 redirction_operator.bat
+07/19/2016  01:24 PM               715 redirction_operator.bat~
+07/18/2016  01:46 PM               978 relational_operator.bat
+07/18/2016  01:32 PM               611 relational_operator.bat~
+              21 File(s)         13,386 bytes
+               2 Dir(s)  24,177,115,136 bytes free

@@ -1,0 +1,72 @@
+
+Windows IP Configuration
+
+
+Ethernet adapter Local Area Connection 7:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter Local Area Connection* 11:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter softether - VPN Client:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter Local Area Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter Local Area Connection 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter VirtualBox Host-Only Network:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::846:7aba:f447:e98c%25
+   IPv4 Address. . . . . . . . . . . : 192.168.56.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+
+Windows IP Configuration
+
+
+Ethernet adapter Local Area Connection 7:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter Local Area Connection* 11:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter softether - VPN Client:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter Local Area Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter Local Area Connection 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter VirtualBox Host-Only Network:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::846:7aba:f447:e98c%25
+   IPv4 Address. . . . . . . . . . . : 192.168.56.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
