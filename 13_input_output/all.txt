@@ -1,0 +1,14 @@
+ Volume in drive C is windows
+ Volume Serial Number is 1C50-73B5
+
+ Directory of C:\Users\sh\Desktop\batch_practise\13_input_output
+
+07/20/2016  01:54 PM    <DIR>          .
+07/20/2016  01:54 PM    <DIR>          ..
+07/20/2016  01:54 PM                 0 all.txt
+07/20/2016  01:52 PM               557 list_of_anything.txt
+07/20/2016  01:52 PM                 0 list_of_error.txt
+07/20/2016  01:52 PM               438 list_of_here.txt
+07/20/2016  01:52 PM               544 standard_stream.bat
+               5 File(s)          1,539 bytes
+               2 Dir(s)  24,175,652,864 bytes free
