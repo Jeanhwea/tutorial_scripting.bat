@@ -1,0 +1,15 @@
+Aliases means creating shortcuts or keywords for existing commands. Suppose if we wanted to execute the below
+command which is nothing but the directory listing command with the /W option to not show all of the necessay
+detail in a directory listing.
+dir /w
+
+Suppose if we want to exxcute the 'dir /w' command, we can simply type in the word 'dw'.
+The word 'dw' has now become an alias to the command 'dir /w'
+
+Creating an alias
+Alias are managed by using the 'doskey' command.
+Syntax:
+doskey [option] [macro-name = [test]]
+wherein
+	- macro-name: A short name for the macro
+	- The commands you wnat to recall
